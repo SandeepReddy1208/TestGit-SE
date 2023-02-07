@@ -1,0 +1,52 @@
+https://www.kaggle.com/datasets/tleonel/crypto-tweets-80k-in-eng-aug-2022
+https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games
+https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+
+maths
+https://www.cfm.brown.edu/people/dobrush/cs52/Mathematica/Part7/fibo.html
+
+XKVGTT
+
+uropfile:///C:/Users/Admin/Downloads/125966457.pdf
+
+1
+cloud sql
+cloud firestore
+cloud bigquery
+
+
+2
+compute engine- hardware is provided and remaining we have to build the code
+google kubernetics
+app engine - PaaS,infrastructure as a service,
+
+cloud functions- function as a service
+API- compute tasks
+
+
+
+3.Analytics and Management:
+looker
+
+
+cloud trace has distriutive tracing system >> cloud debu-gging
+
+vertex ai - provided by google lcoud
+                process of ai and ml starts with training data
+                post and implement entire ml process
+vision ai - APi
+               provide sample data gives predictions
+               categorizing and analyze pictures
+cloud monitoring - helps to analyze all google cloud services to make sure to run properly
+coldline-  using more than for 90 days
+standard-again and again using
+nearline- using for 90 days
+
+
+
+cloud spanner - RDBMS,structured data
+firestore-store unstructured data
+
+
+MOOC 105 - cognitive psychology
+MOOC 106 - forest and its management
